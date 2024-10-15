@@ -1,0 +1,15 @@
+{
+  "name": "hello_world_server",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@apollo/server": "^4.11.0",
+    "@graphql-tools/schema": "^10.0.6",
+    "express": "^4.21.1",
+    "graphql": "^16.9.0",
+    "graphql-subscriptions": "^2.0.0",
+    "graphql-ws": "^5.16.0",
+    "nexus": "^1.3.0",
+    "ws": "^8.18.0"
+  }
+}
